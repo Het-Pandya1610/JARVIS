@@ -1,0 +1,90 @@
+[
+    {
+        "role": "user",
+        "content": "tokens I have left"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have information about your token balance."
+    },
+    {
+        "role": "user",
+        "content": "please tell me"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have the ability to track or access your token balance."
+    },
+    {
+        "role": "user",
+        "content": "you just did 5 mins ago"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't retain information about previous conversations or track token balances."
+    },
+    {
+        "role": "user",
+        "content": "ok"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm ready to help with a new question."
+    },
+    {
+        "role": "user",
+        "content": "no thanks"
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye."
+    },
+    {
+        "role": "user",
+        "content": "how many tokens do I have?"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have information about your token balance."
+    },
+    {
+        "role": "user",
+        "content": "cls"
+    },
+    {
+        "role": "assistant",
+        "content": "Conversation started fresh."
+    },
+    {
+        "role": "user",
+        "content": "cl"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm here to help, what's your question?"
+    },
+    {
+        "role": "user",
+        "content": "what is cls"
+    },
+    {
+        "role": "assistant",
+        "content": "CLS stands for Clear Screen."
+    },
+    {
+        "role": "user",
+        "content": "ok"
+    },
+    {
+        "role": "assistant",
+        "content": "Screen cleared."
+    },
+    {
+        "role": "user",
+        "content": "cls"
+    },
+    {
+        "role": "assistant",
+        "content": "Screen cleared."
+    }
+]
